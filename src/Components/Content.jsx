@@ -52,7 +52,7 @@ const Content = () => {
         top: randomTop,
         left: randomLeft,
       });
-    }, 0);
+    }, 100);
     handlePoints();
     handleSound();
 

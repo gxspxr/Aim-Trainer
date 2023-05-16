@@ -71,7 +71,7 @@ const Content = () => {
 
   return (
     <div className="">
-       <h1 className='flex justify-center align-middle text-white text-3xl'>AIM<span className="text-cyan-500">TRAINER</span></h1>
+       <h1 className='flex justify-center align-middle text-white text-3xl'>AIM<span className="text-emerald-500">TRAINER</span></h1>
       <section onClick={handleMisses} className={`cursor-crosshair border-solid border-2 border-gray-95 h-[33em] w-[84em] relative overflow-hidden ${bgColor}`}>
         {circleVisible && (
           <div

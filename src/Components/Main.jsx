@@ -7,7 +7,7 @@ import {FaGithub} from "react-icons/fa"
 const Main = () => {
   return (
     <main className='h-screen w-screen bg-base overflow-x-hidden'>
-      <h1 className='text-white text-lg'><span className=' text-cyan-500 text-lg'>{"<"}</span>Gaspar<span className='text-cyan-500 text-lg'>{"/>"}</span></h1>
+      <h1 className='text-white text-lg'><span className=' text-cyan-500 text-lg'>{"<"}</span>gaspar<span className='text-cyan-500 text-lg'>{"/>"}</span></h1>
 
    <section className=' select-none flex justify-center align-middle mt-[1em]'><Content /></section>
    {/* luego de esto va el footer, texto: "Made with ♥ and react" bg-secondary */}
